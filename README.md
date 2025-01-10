@@ -34,7 +34,7 @@ To get a copy of this project up and running on your local machine for developme
    npm install
    ```
 4. Navigate to the backend directory and do the same done before.
-5. Import `schema.sql` to MySQL workbench to use the database.
+5. Import `schema.sql` located in backend directory to MySQL workbench or use that query for create the database.
 
 ## Running the Project
 
